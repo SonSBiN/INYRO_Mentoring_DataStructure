@@ -1,0 +1,212 @@
+Name: 종로구, Men: 76876, Women: 82120
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 은평구, Men: 231998, Women: 252045
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+Name: 강동구, Men: 228044, Women: 235954
+
+
+종로구가 삭제된 후의 리스트
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 은평구, Men: 231998, Women: 252045
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+Name: 강동구, Men: 228044, Women: 235954
+
+
+강동구가 삭제된 후의 리스트
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 은평구, Men: 231998, Women: 252045
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+
+
+은평구가 삭제된 후의 리스트
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+
+
+종로구가 추가된 후 리스트
+Name: 종로구, Men: 76876, Women: 82120
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+
+
+강동구가 추가된 후 리스트
+Name: 종로구, Men: 76876, Women: 82120
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+Name: 강동구, Men: 228044, Women: 235954
+
+
+은평구가 추가된 후 리스트
+Name: 종로구, Men: 76876, Women: 82120
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 은평구, Men: 231998, Women: 252045
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+Name: 강동구, Men: 228044, Women: 235954
+서울시 남자 인구 숫자: 4816522, 서울시 여자 인구 숫자: 5094566
+
+LstIterate() 함수를 이용해서 화면에 리스트 출력
+Name: 종로구, Men: 76876, Women: 82120
+Name: 중구, Men: 65776, Women: 68859
+Name: 용산구, Men: 118835, Women: 125810
+Name: 성동구, Men: 146424, Women: 154081
+Name: 광진구, Men: 173000, Women: 187109
+Name: 동대문구, Men: 175322, Women: 181692
+Name: 중랑구, Men: 197118, Women: 202444
+Name: 성북구, Men: 214658, Women: 232398
+Name: 강북구, Men: 151466, Women: 160103
+Name: 도봉구, Men: 159420, Women: 167941
+Name: 노원구, Men: 254188, Women: 272844
+Name: 은평구, Men: 231998, Women: 252045
+Name: 서대문구, Men: 153152, Women: 169800
+Name: 마포구, Men: 178977, Women: 202881
+Name: 양천구, Men: 224379, Women: 233402
+Name: 강서구, Men: 282686, Women: 303215
+Name: 구로구, Men: 215424, Women: 217064
+Name: 금천구, Men: 126141, Women: 121694
+Name: 영등포구, Men: 202969, Women: 204398
+Name: 동작구, Men: 193718, Women: 207854
+Name: 관악구, Men: 255211, Women: 254592
+Name: 서초구, Men: 205282, Women: 223743
+Name: 강남구, Men: 260378, Women: 283677
+Name: 송파구, Men: 325080, Women: 348846
+Name: 강동구, Men: 228044, Women: 235954
